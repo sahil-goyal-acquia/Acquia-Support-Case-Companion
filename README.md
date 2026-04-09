@@ -49,11 +49,4 @@ A Chrome extension for Acquia support engineers. Opens as a popup on any Salesfo
 
 ---
 
-## Troubleshooting
-
-| Issue | Fix |
-|---|---|
-| Popup shows "Cannot read case" | Make sure you're on a fully loaded Case record page |
-| No subscriptions shown | They may be in a related list that hasn't loaded — scroll the page first, then refresh the popup |
-| Panic command not auto-detected | The `.prod` slug wasn't found; check the Hosting Name field on the page |
 # Acquia-Support-Case-Companion
